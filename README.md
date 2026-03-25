@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IslamMuhammed-11
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Dart
+- 👀 I’m A Backend Developer 
+- 🌱 Currently Working With .NET 
 -  
 
 <!---
