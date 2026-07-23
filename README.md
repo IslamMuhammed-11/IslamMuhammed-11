@@ -33,7 +33,7 @@ I enjoy designing scalable backend systems, building RESTful APIs, and turning b
 - Repository Pattern
 - Unit of Work
 - SOLID Principles
-- Domain-Driven Design (Learning)
+- Domain-Driven Design 
 
 ### Tools
 - Git & GitHub
